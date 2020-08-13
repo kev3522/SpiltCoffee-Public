@@ -1,0 +1,15 @@
+// These are variable overwrites used only for this theme.
+@import "./spilt_coffee_colors.scss";
+
+// Global styling
+@import "../../../node_modules/@elastic/eui/src/global_styling/index.scss";
+
+// Components
+@import "../../../node_modules/@elastic/eui/src/components/index.scss";
+
+// Packages
+@import "../../../node_modules/@elastic/eui/packages/index";
+
+// Component overrides
+// Comes after the component import and overrides via cascade
+@import "../../../node_modules/@elastic/eui/src/themes/eui-amsterdam/overrides/index";

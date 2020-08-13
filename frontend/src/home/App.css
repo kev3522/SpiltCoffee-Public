@@ -1,0 +1,125 @@
+.App {
+  padding-top: 10px !important;
+  padding-left: 2.5vw !important;
+  padding-right: 2.5vw !important;
+}
+
+.Search {
+  text-align: center;
+  margin-left: 21.5vw;
+  margin-right: 21.5vw;
+  margin-top: 20.5vh;
+}
+
+.main-logo {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.Profile {
+  margin-left: 30vw;
+  margin-right: 30vw;
+  margin-top: 20vh;
+}
+
+.header {
+  /* padding-left: 10vw !important; */
+  /* padding-right: 10vw !important; */
+  box-shadow: none !important;
+  background-color: #1a1b20 !important;
+  padding-top: 10px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+}
+
+.header-text {
+  font-size: 14px !important;
+  color: #feefdf !important;
+}
+
+.active-header-text {
+  font-size: 14px !important;
+  color: #ff6566 !important;
+}
+
+.header-sign-up {
+  font-size: 14px !important;
+}
+.btn-color {
+  color: #feefdf !important;
+}
+
+.positive-color {
+  color: #54b399 !important;
+}
+
+.negative-color {
+  color: #ff6566 !important;
+}
+
+/* .heading-text {
+  font-weight: bold !important;
+} */
+
+h1 {
+  font-weight: bold !important;
+  color: #feefdf !important;
+}
+
+.bold-text {
+  font-weight: bold !important;
+}
+
+.icon-left {
+  margin-left: 3px;
+}
+.icon-margin {
+  margin-left: 1px;
+}
+
+.accent-text {
+  text-decoration: none !important;
+  color: #feefdf !important;
+}
+
+.location-text {
+  text-decoration: underline;
+  text-decoration-color: #d85d48;
+  color: #d85d48 !important;
+  font-weight: bold;
+}
+
+.search-bar {
+  /* border-radius: 10px !important; */
+  color: #1a1b20 !important;
+  background-color: #feefdf !important;
+}
+
+.search-bar::placeholder {
+  color: rgba(26, 27, 32, 0.8) !important;
+}
+
+.search-button {
+  color: #feefdf !important;
+}
+
+.search-icon {
+  color: #fff !important;
+  /* width: 1% !important; */
+}
+
+.search-button:focus {
+  transform: none !important;
+}
+
+.search-button:hover {
+  transform: none !important;
+}
+
+.search-button:active {
+  transform: 0px !important;
+}
+
+.underline {
+  text-decoration: underline;
+}
