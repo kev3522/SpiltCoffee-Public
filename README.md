@@ -1,4 +1,4 @@
-**First place in Facebook Hackathon: AI!**
+**First place in Facebook Hackathon: AI**
 
 https://devpost.com/software/spilt-coffee-gwzinv
 
