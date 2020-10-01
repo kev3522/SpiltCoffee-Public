@@ -1,11 +1,13 @@
+# ☕️ spilt coffee
+
 **First place in Facebook Hackathon: AI**
 
 https://devpost.com/software/spilt-coffee-gwzinv
 
-# ☕️ spilt coffee
-[>> spilt-coffee.web.app <<](https://spilt-coffee.web.app/)  
 **Media monitoring and brand reputation trends powered by AI.**   
 We help small businesses take control of their brand by giving them instant access to and sentiment analysis on mentions across social, reviews, news and and more.
+
+[>> spilt-coffee.web.app <<](https://spilt-coffee.web.app/)  
 
 ![alt text](https://i.imgur.com/6k18HXN.jpg)
 
