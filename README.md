@@ -32,7 +32,7 @@ A brief overview of our application, with some key features (green) on the left 
 ## 🔮 NLP Model 
 **MODEL**  
 Sentiment analysis was conducted based on an ensemble model aggregating both the [VADER model](https://github.com/cjhutto/vaderSentiment) and Facebook’s wit.ai NLP model. Train and test data was primarily formed from Yelp’s open data set (>8,000,000 user reviews) and the Sentiment140 Twitter dataset. 
-
+ 
 **ACCURACY**  
 Running our ensemble model on a subset (test) dataset, we achieved an accuracy 73.35% on a set of 2000 test Yelp points as well as a 74.25% for the Sentiment140 set on their given test set of 497 tweets. 
 
