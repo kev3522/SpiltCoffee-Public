@@ -38,7 +38,7 @@ Sentiment analysis was conducted based on an ensemble model aggregating both the
 **ACCURACY**  
 Running our ensemble model on a subset (test) dataset, we achieved an accuracy 73.35% on a set of 2000 test Yelp points as well as a 74.25% for the Sentiment140 set on their given test set of 497 tweets. 
 
-**NEXT STEPS**  
+**NEXT STEPS**   
 With spilt coffee, we can eventually provide further detailed analysis per company via reviews and collected text. Analysis on very negative reviews during dips historical trends can provide us with bi- and tri-grams of common phrases used in negative reviews. We can see what users tend to have issues with, and provide actionable recommendations to improve these businesses.  
 
 ## 💻 Tech Stack
